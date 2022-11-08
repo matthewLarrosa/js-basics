@@ -34,16 +34,18 @@
 }
 
 .color__box{
-    margin: 5px;
+    margin: 30px;
     height: 200px;
     width: 200px;
     border-radius: 20px;
-    background-color: rgb(102, 153, 102);
+    background-color: rgb(231, 231, 231);
+    border-color: black;
+    border: 5px;
 }
 .selection__box{
-    margin: 5px;
-    height: 100px;
-    width: 100px;
+    margin: 30px;
+    height: 380px;
+    width: 380px;
     border-radius: 20px;
     background-color: rgb(102, 153, 102);
 }
